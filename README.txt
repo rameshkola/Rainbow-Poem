@@ -2,3 +2,4 @@
 
 Added color red
 Added color yellow
+Added blue color
